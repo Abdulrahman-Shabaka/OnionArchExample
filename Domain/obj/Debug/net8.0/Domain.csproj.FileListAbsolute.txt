@@ -1,0 +1,12 @@
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\bin\Debug\net8.0\Domain.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Domain\obj\Debug\net8.0\ref\Domain.dll

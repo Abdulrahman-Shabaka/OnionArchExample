@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24A563B-4CBB-46A7-96E5-D385D1E59CF9}|Api\\Api.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24A563B-4CBB-46A7-96E5-D385D1E59CF9}|Api\\Api.csproj|solutionrelative:api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\application\\services\\iauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|solutionrelative:application\\services\\iauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|solutionrelative:application\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\application\\responses\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|solutionrelative:application\\responses\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\services\\idevicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\services\\idevicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\services\\iaccountauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\services\\iaccountauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\services\\accountauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\services\\accountauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\services\\devicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\services\\devicemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\application\\commands\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2F5EE7-25A4-4AA6-AAF4-54ED58863FE3}|Application\\Application.csproj|solutionrelative:application\\commands\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\revokedaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\revokedaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\invitationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\invitationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\deviceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\deviceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\db\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\db\\accountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\devices\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\devices\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\accounts\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\accounts\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\accounts\\mobilenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\accounts\\mobilenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\accounts\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\accounts\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\accounts\\photourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\accounts\\photourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\services\\firebase\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\firebase\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\services\\firebase\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\firebase\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\services\\firebase\\firebaseauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\firebase\\firebaseauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\repositories\\invitationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\invitationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\infrastructure\\repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BE02D9-D7C1-4E76-8B45-42B114973508}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\interfaces\\iinvitationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iinvitationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\devices\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\devices\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\interfaces\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\models\\invitations\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\models\\invitations\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\interfaces\\ijwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|d:\\learn\\tech mentor with hassan ibrahim\\modular monolith\\applications\\onionarchexample\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6993DA88-BDA6-4161-935D-813DE5219C32}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticateService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Services\\IAuthenticateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IAuthenticateService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Services\\IAuthenticateService.cs*",
+              "RelativeToolTip": "Application\\Services\\IAuthenticateService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:13:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Api\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controller\\AuthController.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Api\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:10:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "Infrastructure\\Db\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:07:18.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RevokedAccountEntity.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\RevokedAccountEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\RevokedAccountEntity.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\RevokedAccountEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\RevokedAccountEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:03:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authenticate.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Commands\\Authenticate.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Authenticate.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Commands\\Authenticate.cs",
+              "RelativeToolTip": "Application\\Commands\\Authenticate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:10:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Responses\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Responses\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Responses\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Application\\Responses\\AuthenticateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:11:04.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\AccountAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\AccountAuthenticationService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\AccountAuthenticationService.cs",
+              "RelativeToolTip": "Domain\\Services\\AccountAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:43:26.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceManagementService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\DeviceManagementService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\DeviceManagementService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\DeviceManagementService.cs",
+              "RelativeToolTip": "Domain\\Services\\DeviceManagementService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:48:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\IAccountAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IAccountAuthenticationService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\IAccountAuthenticationService.cs",
+              "RelativeToolTip": "Domain\\Services\\IAccountAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:15:42.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeviceManagementService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\IDeviceManagementService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IDeviceManagementService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Services\\IDeviceManagementService.cs",
+              "RelativeToolTip": "Domain\\Services\\IDeviceManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:15:15.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthenticateService.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Application\\Services\\AuthenticateService.cs*",
+              "RelativeToolTip": "Application\\Services\\AuthenticateService.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:07:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ILogger.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:52:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberEntity.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\MemberEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\MemberEntity.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\MemberEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\MemberEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:03:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvitationEntity.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\InvitationEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\InvitationEntity.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\InvitationEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\InvitationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:02:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeviceEntity.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\DeviceEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\DeviceEntity.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\DeviceEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\DeviceEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:58:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountEntity.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\AccountEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Db\\AccountEntity.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Db\\AccountEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Db\\AccountEntity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:47:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\FullName.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Accounts\\FullName.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\FullName.cs",
+              "RelativeToolTip": "Domain\\Models\\Accounts\\FullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:48:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MobileNumber.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\MobileNumber.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Accounts\\MobileNumber.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\MobileNumber.cs",
+              "RelativeToolTip": "Domain\\Models\\Accounts\\MobileNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:17:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\Permission.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Accounts\\Permission.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\Permission.cs",
+              "RelativeToolTip": "Domain\\Models\\Accounts\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:50:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhotoUrl.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\PhotoUrl.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Accounts\\PhotoUrl.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\PhotoUrl.cs*",
+              "RelativeToolTip": "Domain\\Models\\Accounts\\PhotoUrl.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:49:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\Logger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Firebase\\Logger.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\Logger.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Firebase\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:41:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtGenerator.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\JwtGenerator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Firebase\\JwtGenerator.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\JwtGenerator.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Firebase\\JwtGenerator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:36:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FirebaseAuthProvider.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\FirebaseAuthProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Firebase\\FirebaseAuthProvider.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Services\\Firebase\\FirebaseAuthProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Firebase\\FirebaseAuthProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:33:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InvitationRepo.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Repositories\\InvitationRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InvitationRepo.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Repositories\\InvitationRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\InvitationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:32:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Repositories\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AccountRepo.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Infrastructure\\Repositories\\AccountRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AccountRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:26:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Accounts\\Account.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Accounts\\Account.cs",
+              "RelativeToolTip": "Domain\\Models\\Accounts\\Account.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:52:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Devices\\RefreshToken.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Models\\Devices\\RefreshToken.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:57:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Devices\\Device.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\Device.cs*",
+              "RelativeToolTip": "Domain\\Models\\Devices\\Device.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:56:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\AppException.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:22:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\DeviceType.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Devices\\DeviceType.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Devices\\DeviceType.cs",
+              "RelativeToolTip": "Domain\\Models\\Devices\\DeviceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:27:46.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IInvitationRepo.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IInvitationRepo.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IInvitationRepo.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IInvitationRepo.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IInvitationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:51:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Invitations\\Invitation.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Invitations\\Invitation.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Models\\Invitations\\Invitation.cs",
+              "RelativeToolTip": "Domain\\Models\\Invitations\\Invitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:56:32.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAccountRepo.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IAccountRepo.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:49:43.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T15:39:24.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IJWTGenerator.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IJWTGenerator.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJWTGenerator.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IJWTGenerator.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJWTGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:52:02.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAuthProvider.cs",
+              "DocumentMoniker": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IAuthProvider.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAuthProvider.cs",
+              "ToolTip": "D:\\Learn\\Tech Mentor with Hassan Ibrahim\\Modular Monolith\\Applications\\OnionArchExample\\Domain\\Interfaces\\IAuthProvider.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAuthProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:51:09.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

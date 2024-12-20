@@ -1,0 +1,16 @@
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Learn\Tech Mentor with Hassan Ibrahim\Modular Monolith\Applications\OnionArchExample\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
